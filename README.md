@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?
-font=BrunoAceSC&fontWeight=800&size=40&duration=3500&pause=1200&color=00AEEF&center=true&vCenter=true&width=900&height=70&lines=Puneeth+S;AI+%26+ML+Student;Backend+Developer;Learning+LLMs+%26+Agentic+AI+Models" alt="Puneeth S" />
+font=Bruno+Ace+SC&fontWeight=800&size=40&duration=3500&pause=1200&color=00AEEF&center=true&vCenter=true&width=900&height=70&lines=Puneeth+S;AI+%26+ML+Student;Backend+Developer;Learning+LLMs+%26+Agentic+AI+Models" alt="Puneeth S" />
 <br><br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=5000&pause=1800&color=808080&center=true&vCenter=true&width=850&height=100&lines=AI+%26+ML+Engineering+Student+at+JNNCE%2C+Shivamogga;Building+projects+with+Node.js+and+MongoDB;Securing+authentication+systems+with+JWT;Learning+Generative+AI" alt="About Puneeth S" />
 <br><br>

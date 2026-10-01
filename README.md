@@ -1,19 +1,12 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&fontWeight=800&size=28&duration=4500&pause=1600&color=00AEEF&center=true&vCenter=true&width=600&lines=Puneeth+S" alt="Puneeth S" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&fontWeight=800&size=28&duration=3500&pause=1200&color=00AEEF&center=true&vCenter=true&width=900&height=70&lines=Puneeth+S;AI+%26+ML+Student;Backend+Developer;Learning+LLMs+%26+Agentic+AI+Models" alt="Puneeth S" />
 <br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=5000&pause=1800&color=808080&center=true&vCenter=true&width=850&height=100&lines=AI+%26+ML+Student;Backend+Developer;Learning+LLMs+and+Agentic+AI+Models" alt="About Puneeth S" />
-
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=5000&pause=1800&color=808080&center=true&vCenter=true&width=850&height=100&lines=AI+%26+ML+Engineering+Student+at+JNNCE%2C+Shivamogga;Building+projects+with+Node.js+and+MongoDB;Securing+authentication+systems+with+JWT;Learning+Generative+AI" alt="About Puneeth S" />
-
 <br><br>
-
 Building practical software and AI-powered solutions for real-world problems.
-
 <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Puneeth%20S-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/puneeth-s-73715043b/)

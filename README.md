@@ -7,7 +7,7 @@
 Building practical software and AI-powered solutions for real-world problems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Puneeth14--2006-181717?style=for-the-badge&logo=github)](https://github.com/Puneeth14-2006)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Puneeth%20S-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL](https://www.linkedin.com/in/puneeth-s-73715043b?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![LinkedIn](https://www.linkedin.com/in/puneeth-s-73715043b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 </div>
 

@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1200&color=00AEEF&center=true&vCenter=true&width=500&lines=Puneeth+S" alt="Puneeth S" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1200&color=00AEEF&center=true&vCenter=true&width=500&lines=" alt="" />
 
 <br>
 

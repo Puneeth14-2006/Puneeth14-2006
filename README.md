@@ -1,6 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Puneeth S
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Puneeth+S;AI%2FML+Student;Software+Developer;GenAI+Enthusiast" alt="Typing SVG" />
+
+</div>
 
 ### AI/ML Student • Backend Developer • GenAI
 

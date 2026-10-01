@@ -6,20 +6,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=5000&pause=1800&color=808080&center=true&vCenter=true&width=850&height=100&lines=AI+%26+ML+Engineering+Student+at+JNNCE%2C+Shivamogga;Building+projects+with+Node.js+and+MongoDB;Securing+authentication+systems+with+JWT;Learning+Generative+AI" alt="About Puneeth S" />
 
-</div>
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1200&color=00AEEF&center=true&vCenter=true&width=500&lines=" alt="" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=5000&pause=1800&color=808080&center=true&vCenter=true&width=850&height=100&lines=AI+%26+ML+Engineering+Student+at+JNNCE%2C+Shivamogga;Building+projects+with+Node.js+and+MongoDB;Securing+authentication+systems+with+JWT;Learning+Generative+AI" alt="About Puneeth S" />
-
-</div>
-
-
+<br><br>
 
 Building practical software and AI-powered solutions for real-world problems.
+
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Puneeth%20S-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/puneeth-s-73715043b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Puneeth14--2006-181717?style=for-the-badge&logo=github)](https://github.com/Puneeth14-2006)
@@ -69,13 +60,11 @@ through projects, hackathons, and hands-on learning.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-
 ### 🤖 AI / ML / GenAI
 
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=ai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-
 
 ### 🗄️ Databases
 

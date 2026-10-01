@@ -2,11 +2,21 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Puneeth+S;AI%2FML+Student;Software+Developer;GenAI+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Puneeth+S;AI%2FML+Student;Backend+Developer;GenAI" alt="Typing SVG" />
 
 </div>
 
-### AI/ML Student • Backend Developer • GenAI
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1200&color=00AEEF&center=true&vCenter=true&width=500&lines=Puneeth+S" alt="Puneeth S" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=5000&pause=1800&color=808080&center=true&vCenter=true&width=850&height=100&lines=AI+%26+ML+Engineering+Student+at+JNNCE%2C+Shivamogga;Building+projects+with+Node.js+and+MongoDB;Securing+authentication+systems+with+JWT;Learning+Generative+AI" alt="About Puneeth S" />
+
+</div>
+
+
 
 Building practical software and AI-powered solutions for real-world problems.
 
